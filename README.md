@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Uday 👋
 
-<!--
-**udaynarendragudiguntla-hash/udaynarendragudiguntla-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student interested in backend development and AI-powered applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- C++
+- Git & GitHub
+- Postman
+
+## Currently Learning
+
+- Docker
+- System Design
+- AI/ML
+
+## Current Projects
+
+- Building APIs with Node.js and Express
+- Developing a personal Jarvis assistant
+
+## Looking For
+
+- Backend Development Internships
+- Entry-Level Software Engineering Roles
+- Open Source Contributions
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/udaynarendra-gudiguntla-1790a7349
+
