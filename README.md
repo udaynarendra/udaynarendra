@@ -31,5 +31,5 @@ I'm a second-year Computer Science student interested in backend development and
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/udaynarendra-gudiguntla-1790a7349
+- LinkedIn: https://www.linkedin.com/in/udaynarendra
 
