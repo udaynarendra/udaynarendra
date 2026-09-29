@@ -1,18 +1,39 @@
-# Hi, I'm Uday 👋
+# Hi, I'm Uday Narendra 👋
 
-I'm a third-year Computer Science Engineering student focused on backend development, artificial intelligence, and machine learning. I enjoy building practical backend systems, REST APIs, authentication flows, and real-time applications while continuously learning about scalable architecture, cloud technologies, and modern engineering practices.
+<div align="center">
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaynarendra-gudiguntla-1790a7349/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udaynarendra)
+
+</div>
+
+## Backend Developer in Progress
+
+Computer Science Engineering student focused on building secure, scalable, and practical backend systems with Node.js, TypeScript, REST APIs, and real-time communication.
+
+I enjoy turning ideas into well-structured applications with clear APIs, authentication, database integration, and maintainable server-side architecture.
+
+## About Me
 
 - 🎓 Computer Science Engineering student
-- 💻 Focused on Backend Development
-- 🔭 Building real-world backend and real-time applications
-- 🌱 Currently learning NestJS, System Design, Docker, Redis, and AI/ML
-- 🧠 Interested in backend engineering, AI/ML, and scalable systems
-- 📚 Practicing Data Structures & Algorithms
-- 🤝 Open to learning, collaboration, and backend opportunities
+- 💻 Focused on backend development and API engineering
+- 🔐 Interested in authentication, authorization, and API security
+- ⚡ Building real-time applications with Socket.IO
+- 🧠 Practicing data structures, algorithms, and system design
+- 🌱 Currently learning NestJS, Redis, Docker, testing, and cloud deployment
+- 🤝 Open to internships, backend opportunities, and collaboration
 
-## 🛠️ Tech Stack
+## Core Skills
+
+- Backend development
+- REST API design
+- Authentication and authorization
+- Database-driven applications
+- Real-time communication
+- Error handling and input validation
+- Modular application architecture
+
+## Tech Stack
 
 ### Languages
 
@@ -25,69 +46,69 @@ I'm a third-year Computer Science Engineering student focused on backend develop
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### Databases & Storage
+### Databases and Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### AI / ML
+## Featured Projects
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3A46A1?style=for-the-badge)
+### 💬 [Real-Time Chat Application](https://github.com/udaynarendra/realtime-chat-app)
 
-## 📌 Featured Projects
+A real-time communication application with authentication, live messaging, chat rooms, online presence, and scalable communication features.
 
-### 💬 Real-time Chat Application
+**Technologies:** TypeScript · Node.js · Express.js · Socket.IO · MongoDB · Redis
 
-A real-time communication app built with a modern backend architecture, supporting authentication, real-time messaging, and online presence.
+### 🔐 [Authentication API](https://github.com/udaynarendra/node-auth-jwt-cookie-bcrypt)
 
-Tech: TypeScript · Node.js · Express.js · Socket.IO · MongoDB · Redis
+A secure authentication backend with registration, email verification, JWT access and refresh tokens, refresh-token rotation, password reset, secure cookies, and protected routes.
 
-### 🔐 Advanced Authentication API
+**Technologies:** Node.js · Express.js · MongoDB · JWT · bcrypt · Joi · Nodemailer
 
-A production-style authentication backend implementing email verification, OTP-based flows, password reset, access/refresh token handling, secure cookies, and token management.
+### 🛒 [Mini E-Commerce Backend](https://github.com/udaynarendra/mini-ecommerce-backend)
 
-Tech: TypeScript · Node.js · Express.js · MongoDB · JWT · bcrypt
+A backend API for an e-commerce application with authentication, product management, carts, orders, payment-flow simulation, and email notifications.
 
-### 🛒 Mini E-Commerce Backend API
+**Technologies:** Node.js · Express.js · JWT · REST API · Nodemailer
 
-A RESTful e-commerce backend with authentication, authorization, product management, carts, orders, payments, and transactional email functionality.
+### 🔗 [URL Shortener API](https://github.com/udaynarendra/url-shortener-api)
 
-Tech: Node.js · Express.js · MongoDB · JWT · Nodemailer
+A RESTful URL-shortening service with short URL generation, redirects, validation, and URL management.
 
-### 🔗 URL Shortener API
+**Technologies:** Node.js · Express.js · MongoDB
 
-A REST API for generating short URLs and redirecting users to the original destinations.
+## Currently Learning
 
-Tech: Node.js · Express.js · MongoDB · nanoid
+- NestJS and dependency injection
+- System design and scalable architecture
+- Redis and caching strategies
+- Docker and containerization
+- Automated testing and CI/CD
+- API security and production deployment
+- Artificial intelligence and machine learning fundamentals
 
-## 📚 Currently Learning
+## Development Goals
 
-- NestJS & Dependency Injection
-- System Design
-- Redis & caching
-- Docker & containerization
-- Scalable backend architecture
-- Artificial Intelligence & Machine Learning
+- Build production-quality backend services
+- Write automated unit and integration tests
+- Deploy projects to the cloud
+- Improve system-design and database-design skills
+- Contribute to open-source projects
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: [Uday Narendra](https://www.linkedin.com/in/udaynarendra-gudiguntla-1790a7349/)
-- 💻 GitHub: [udaynarendra](https://github.com/udaynarendra)
+- 💼 [LinkedIn](https://www.linkedin.com/in/udaynarendra-gudiguntla-1790a7349/)
+- 💻 [GitHub](https://github.com/udaynarendra)
 
----
+<div align="center">
 
-⭐ Check out my repositories to see what I'm building and learning.
+⭐ Building backend systems, improving architecture skills, and shipping practical projects.
+
+</div>
